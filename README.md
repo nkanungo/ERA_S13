@@ -4,13 +4,15 @@ This repository contains code related to the YOLO (You Only Look Once) assignmen
 
 **Table of Contents**
 
-Introduction
-Getting Started
-Usage
-Configuration
-Results
-Contributing
-License
+
+•	Introduction
+•	Getting Started
+•	Usage
+•	Configuration
+•	Results
+•	Contributing
+•	License
+
 
 **Introduction**
 The YOLO (You Only Look Once) algorithm is a real-time object detection system that can detect multiple objects within an image in a single pass. This repository contains code for training and evaluating a YOLOv3 model using the PyTorch framework.
