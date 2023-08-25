@@ -6,12 +6,19 @@ This repository contains code related to the YOLO (You Only Look Once) assignmen
 
 
 •	Introduction
+
 •	Getting Started
+
 •	Usage
+
 •	Configuration
+
 •	Results
+
 •	Contributing
+
 •	License
+
 
 
 **Introduction**
