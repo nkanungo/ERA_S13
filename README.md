@@ -1,4 +1,4 @@
-**yolo assignment**
+**Yolo assignment**
 
 This repository contains code related to the YOLO (You Only Look Once) assignment. The code is designed to train and evaluate a YOLOv3 model for object detection tasks.
 
